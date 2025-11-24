@@ -1,0 +1,47 @@
+ConvLSTM - Sleep Stage Classification Results
+======================================================================
+
+Overall Accuracy: 24.23%
+
+Movement:
+  accuracy: 0.9997 ± 0.0005
+  precision: 0.0000 ± 0.0000
+  recall: 0.0000 ± 0.0000
+  sensitivity: 0.0000 ± 0.0000
+  specificity: 1.0000 ± 0.0000
+
+N1:
+  accuracy: 0.8071 ± 0.0595
+  precision: 0.0595 ± 0.0848
+  recall: 0.0440 ± 0.0789
+  sensitivity: 0.0440 ± 0.0789
+  specificity: 0.9484 ± 0.0963
+
+N2:
+  accuracy: 0.4796 ± 0.1330
+  precision: 0.2855 ± 0.1027
+  recall: 0.4844 ± 0.2841
+  sensitivity: 0.4844 ± 0.2841
+  specificity: 0.5461 ± 0.2741
+
+N3:
+  accuracy: 0.8648 ± 0.0455
+  precision: 0.1141 ± 0.0966
+  recall: 0.0452 ± 0.0774
+  sensitivity: 0.0452 ± 0.0774
+  specificity: 0.9780 ± 0.0311
+
+REM:
+  accuracy: 0.9238 ± 0.0303
+  precision: 0.0667 ± 0.1333
+  recall: 0.0026 ± 0.0051
+  sensitivity: 0.0026 ± 0.0051
+  specificity: 0.9981 ± 0.0033
+
+Wake:
+  accuracy: 0.4031 ± 0.1098
+  precision: 0.3675 ± 0.2037
+  recall: 0.4519 ± 0.3082
+  sensitivity: 0.4519 ± 0.3082
+  specificity: 0.5365 ± 0.2997
+

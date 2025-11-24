@@ -1,0 +1,47 @@
+CNN1D - Sleep Stage Classification Results
+======================================================================
+
+Overall Accuracy: 28.72%
+
+Movement:
+  accuracy: 0.9997 ± 0.0005
+  precision: 0.0000 ± 0.0000
+  recall: 0.0000 ± 0.0000
+  sensitivity: 0.0000 ± 0.0000
+  specificity: 1.0000 ± 0.0000
+
+N1:
+  accuracy: 0.8201 ± 0.0331
+  precision: 0.0994 ± 0.1231
+  recall: 0.0339 ± 0.0580
+  sensitivity: 0.0339 ± 0.0580
+  specificity: 0.9634 ± 0.0548
+
+N2:
+  accuracy: 0.5007 ± 0.1707
+  precision: 0.3223 ± 0.1358
+  recall: 0.4800 ± 0.3494
+  sensitivity: 0.4800 ± 0.3494
+  specificity: 0.5635 ± 0.3477
+
+N3:
+  accuracy: 0.8721 ± 0.0379
+  precision: 0.2502 ± 0.2142
+  recall: 0.0540 ± 0.0829
+  sensitivity: 0.0540 ± 0.0829
+  specificity: 0.9854 ± 0.0216
+
+REM:
+  accuracy: 0.9255 ± 0.0308
+  precision: 0.0000 ± 0.0000
+  recall: 0.0000 ± 0.0000
+  sensitivity: 0.0000 ± 0.0000
+  specificity: 1.0000 ± 0.0000
+
+Wake:
+  accuracy: 0.4473 ± 0.1701
+  precision: 0.4451 ± 0.2087
+  recall: 0.5353 ± 0.3251
+  sensitivity: 0.5353 ± 0.3251
+  specificity: 0.5159 ± 0.3287
+
