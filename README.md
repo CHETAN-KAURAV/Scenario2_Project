@@ -23,11 +23,13 @@ Scenario2_Project/
 │
 ├── Data/
 │ ├── AP01 ... AP05/                   # Participant folders
-│ │ ├── nasal_airflow.txt
-│ │ ├── thoracic_movements.txt
-│ │ ├── spo2.txt
-│ │ ├── flow_events.txt
-│ │ └── Sleep profile.txt
+│ │  ├── nasal_airflow.txt
+│ │  ├── thoracic_movements.txt
+│ │  ├── spo2.txt
+│ │  ├── flow_events.txt
+│ │  ├── Sleep profile.txt
+│     ├── cleaned signals
+│     ├── cleaningPlots
 │
 ├── Visualizations/                    # PDF signal visualizations per participant (Task 1)
 │
@@ -53,7 +55,7 @@ Scenario2_Project/
 │ ├── train_models.py                  # Task 4: 50-epoch training for main task
 │ ├── train_models_resume.py           # Hybrid/fast CV for main task
 │ ├── train_models_sleep_stage.py      # Bonus: Sleep stage model training
-│ └── compute_convlstm_exact_metrics_automated.py # Automated confusion matrix OCR
+│ └── compute_convlstm_overall_results.py # Automated confusion matrix OCR
 │
 ├── requirements.txt
 ├── .gitignore
