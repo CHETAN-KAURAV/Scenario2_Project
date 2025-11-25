@@ -28,8 +28,8 @@ Scenario2_Project/
 │ │  ├── spo2.txt
 │ │  ├── flow_events.txt
 │ │  ├── Sleep profile.txt
-│     ├── cleaned signals
-│     ├── cleaningPlots
+│    ├── cleaned signals
+│    ├── cleaningPlots
 │
 ├── Visualizations/                    # PDF signal visualizations per participant (Task 1)
 │
