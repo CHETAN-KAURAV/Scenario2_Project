@@ -1,12 +1,12 @@
 # **Scenario 2 – Health Sensing Pipeline**
 
-### 6-Month AI/ML Internship Selection Task – 2025
+
 
 ---
 
-## **Overview**
 
-This repository contains my complete solution to Scenario 2 (“Health Sensing”) of the 6-month AI/ML Internship Selection Task–2025.
+
+
 
 **Project Objectives:**
 - Explore, preprocess, and visualize multi-channel sleep data from 5 participants
