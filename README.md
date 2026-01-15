@@ -382,13 +382,12 @@ All computations performed on CPU to ensure reproducibility on standard hardware
 
 ## **Thank You for Your Consideration!!**
 
-I have sincerely tried my best to ensure that every requirement of Scenario 2 has been implemented with clarity, correctness, and attention to detail.
+I built the entire project with full of enthusiasm and curiousness and would be greatful if considered for any enhancement.
 
 All steps in the pipeline — from signal visualization to dataset creation, model training, and evaluation — have been carefully documented for reproducibility and transparency.
 
 If, by any chance, there remains any discrepancy between this README and the actual project files, I kindly request your understanding and forgiveness.
 
-I truly appreciate the opportunity to work on this assignment and thank you for reviewing my submission.
 
 ---
 
