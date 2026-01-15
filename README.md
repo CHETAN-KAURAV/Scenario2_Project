@@ -39,9 +39,6 @@ Scenario2_Project/
 ├── Dataset_SleepStage/
 │ └── sleep_stage_dataset.parquet      # Sleep stages windows (Bonus)
 │
-├── Report/                            # I have attached both pdf and docx format
-│ └── Chetan_Kaurav_Scenario_2_Report_6_month_intern_task.pdf
-│ └── Chetan_Kaurav_Scenario_2_Report_6_month_intern_task.docx
 │
 ├── Results/                           # Model results (main task)
 │ ├── CNN1D/
